@@ -16,7 +16,7 @@ The car uses an HC-SR04 ultrasonic sensor to detect obstacles. When an obstacle 
 
 ## Current limitation
 
-The electronics, ultrasonic sensor, LED, and motors work correctly. However, the motors do not currently provide enough power/torque to move the complete car on the floor.
+The motors work individually, but the current power setup cannot provide enough power to run all four motors reliably at the same time. The video demonstrates the ultrasonic sensor, LED indicator, and motor control logic.
 
 ## Code
 
